@@ -231,6 +231,7 @@ rebuild_firmware() {
         \
         luci-app-amlogic \
         luci-app-tinyfm \
+        luci-theme-4lpha \
         \
         php8 php8-cgi php8-fastcgi php8-fpm \
         php8-mod-session php8-mod-ctype php8-mod-fileinfo \
