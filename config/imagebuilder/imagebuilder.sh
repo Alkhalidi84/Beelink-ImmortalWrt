@@ -223,6 +223,7 @@ rebuild_firmware() {
         kmod-usb-net-cdc-ether \
         kmod-usb-net-rtl8152 \
         kmod-usb-net-asix-ax88179 \
+        usbutils \
         \
         luci luci-base luci-compat luci-lib-base \
         luci-lib-ip luci-lib-ipkg luci-lib-jsonc luci-lib-nixio luci-mod-admin-full luci-mod-network \
