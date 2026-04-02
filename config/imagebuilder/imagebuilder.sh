@@ -221,7 +221,7 @@ rebuild_firmware() {
         kmod-usb2 kmod-usb3 kmod-usb-xhci-hcd \
         kmod-usb-net-rndis \
         kmod-usb-net-cdc-ether \
-        kmod-usb-net-rtl8152 \
+        kmod-usb-net-rtl8152-vendor \
         kmod-usb-net-asix-ax88179 \
         \
         luci luci-base luci-compat luci-lib-base \
